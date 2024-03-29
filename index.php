@@ -29,7 +29,7 @@
         <input type="radio" id="genderChoice3" name="symptoms" value="lumbago" />
           <label for="symptomsChoice3">腰痛</label>
       </div>
-      <div>こうしたら良くなったメモ📝<br><textarea name="memo" id="" cols="10" rows="1"></textarea>
+      <div>メモ📝こうしたら良くなったetc...<br><textarea name="memo" id="" cols="10" rows="1"></textarea>
 
 
       <button type="submit">送信</button>
