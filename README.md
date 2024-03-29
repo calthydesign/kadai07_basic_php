@@ -8,8 +8,7 @@ Conditon Record　日々の体調記録アプリ
 - 日々の体調をつけるとともに、良くなった時のメモを残すことで、自分だけの処方箋になるようなアプリを作りました。
 
 ## ③DEMO
-[https://calthydesign.github.io/kadai06-js/
-](https://calthy-design.sakura.ne.jp/kadai07-php-basic/index.php)
+https://calthy-design.sakura.ne.jp/kadai07-php-basic/index.php
 
 ## ④工夫した点・こだわった点
 - スマホアプリ風の見た目になるようにしました。
