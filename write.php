@@ -14,13 +14,13 @@ if(empty($memo)) {
 }
 
 // 値の置き換え
-$condition = str_replace("well", "元気", $condition);
-$condition = str_replace("soso", "まあまあ", $condition);
-$condition = str_replace("unwell", "不調", $condition);
+// $condition = str_replace("well", "元気", $condition);
+// $condition = str_replace("soso", "まあまあ", $condition);
+// $condition = str_replace("unwell", "不調", $condition);
 
-$symptoms = str_replace("headache", "頭痛", $symptoms);
-$symptoms = str_replace("stomachache", "腹痛", $symptoms);
-$symptoms = str_replace("lumbago", "腰痛", $symptoms);
+// $symptoms = str_replace("headache", "頭痛", $symptoms);
+// $symptoms = str_replace("stomachache", "腹痛", $symptoms);
+// $symptoms = str_replace("lumbago", "腰痛", $symptoms);
 
 
 $date = date("Y-m-d H:i:s");

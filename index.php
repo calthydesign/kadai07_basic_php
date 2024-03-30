@@ -13,20 +13,20 @@
     <form action="write.php" method="post">
 
       <div>今日の調子：
-      <input type="radio" id="conditionChoice1" name="condition" value="well" />
+      <input type="radio" id="conditionChoice1" name="condition" value="元気" />
       <label for="conditionChoice1">😊</label>
-      <input type="radio" id="conditionChoice2" name="condition" value="soso" />
+      <input type="radio" id="conditionChoice2" name="condition" value="まあまあ" />
       <label for="conditionChoice2">🙂</label>
-      <input type="radio" id="conditionChoice2" name="condition" value="unwell" />
+      <input type="radio" id="conditionChoice2" name="condition" value="不調" />
       <label for="conditionChoice2">😞</label>
     </div>
 
     <div>症状：
-        <input type="radio" id="symptomsChoice1" name="symptoms" value="headache" />
+        <input type="radio" id="symptomsChoice1" name="symptoms" value="頭痛" />
           <label for="symptomsChoice1">頭痛</label>
-        <input type="radio" id="symptomsChoice2" name="symptoms" value="stomachache" />
+        <input type="radio" id="symptomsChoice2" name="symptoms" value="腹痛" />
          <label for="symptomsChoice2">腹痛</label>
-        <input type="radio" id="genderChoice3" name="symptoms" value="lumbago" />
+        <input type="radio" id="genderChoice3" name="symptoms" value="腰痛" />
           <label for="symptomsChoice3">腰痛</label>
       </div>
       <div>メモ📝こうしたら良くなったetc...<br><textarea name="memo" id="" cols="10" rows="1"></textarea>
