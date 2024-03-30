@@ -2,6 +2,7 @@
 $memo = $_POST["memo"];
 $condition = $_POST["condition"];
 $symptoms = $_POST["symptoms"];
+
 if(empty($condition)) {
     $condition = "未入力";
 }
