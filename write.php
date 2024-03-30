@@ -2,11 +2,15 @@
 $memo = $_POST["memo"];
 $condition = $_POST["condition"];
 $symptoms = $_POST["symptoms"];
-if($condition===""){
+if(empty($condition)) {
     $condition = "未入力";
 }
-if($symptoms===""){
+
+if(empty($symptoms)) {
     $symptoms = "なし";
+}
+if(empty($memo)) {
+    $memo = "なし";
 }
 
 // 値の置き換え
